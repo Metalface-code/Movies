@@ -34,13 +34,13 @@ Save each file to a compressed csv file "Data/ to be used in later phases.
 ## The stakeholder realized that there is no financial information included in the IMDB data (e.g. budget or revenue).
 
 ### This will be a major roadblock when attempting to analyze which movies are successful and must be addressed before you will be able to determine which movies are successful.
-The stakeholder identified The Movie Database (TMDB) as a great source of financial data (https://www.themoviedb.org/). Thankfully, TMDB offers a free API for programmatic access to their data!
+### The stakeholder identified The Movie Database (TMDB) as a great source of financial data (https://www.themoviedb.org/). Thankfully, TMDB offers a free API for programmatic access to their data!
 
 ### Your stakeholder wants you to extract the budget, revenue, and MPAA Rating (G/PG/PG-13/R), which is also called "Certification".
 
-Specifications - Financial Data
-Your stakeholder would like you to extract and save the results for movies that meet all of the criteria established in part 1 of the project (You should already have a filtered dataframe saved from part one as a csv.gz file)
+### Specifications - Financial Data
+### Your stakeholder would like you to extract and save the results for movies that meet all of the criteria established in part 1 of the project (You should already have a filtered dataframe saved from part one as a csv.gz file)
 
-As a proof-of-concept, they requested I  perform a test extraction of movies that started in 2000 or 2001
+### As a proof-of-concept, they requested I  perform a test extraction of movies that started in 2000 or 2001
 
-Each year was saved as a separate .csv.gz file
+### Each year was saved as a separate .csv.gz file
