@@ -61,6 +61,8 @@ Movie ID
 Revenue
 Budget
 Certification (MPAA Rating)
- 
- ![image](https://user-images.githubusercontent.com/105470937/219759019-ccbac2d8-f113-4912-8c50-3b5100d3595c.png)
+
+![image](https://user-images.githubusercontent.com/105470937/219759368-e781eeef-2c28-45a8-8c94-887f5420ab95.png)
+
+![image](https://user-images.githubusercontent.com/105470937/219759019-ccbac2d8-f113-4912-8c50-3b5100d3595c.png)
 
