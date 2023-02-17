@@ -44,3 +44,24 @@ Save each file to a compressed csv file "Data/ to be used in later phases.
 ### As a proof-of-concept, they requested I  perform a test extraction of movies that started in 2000 or 2001
 
 # Phase 3
+## The stake holder asked for a MySQL database to be made for 2001 and 2002
+### Specifically, they want the data from the following files included in your database:
+Title Basics:
+Movie ID (tconst)
+Primary Title
+Start Year
+Runtime (in Minutes)
+Genres
+Title Ratings
+Movie ID (tconst)
+Average Movie Rating
+Number of Votes
+The TMDB API Results (multiple files)
+Movie ID
+Revenue
+Budget
+Certification (MPAA Rating)
+ 
+ ## Here is the data from MySQL after reverse enginering
+ ![image](https://user-images.githubusercontent.com/105470937/219759019-ccbac2d8-f113-4912-8c50-3b5100d3595c.png)
+
