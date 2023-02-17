@@ -43,4 +43,4 @@ Save each file to a compressed csv file "Data/ to be used in later phases.
 
 ### As a proof-of-concept, they requested I  perform a test extraction of movies that started in 2000 or 2001
 
-### Each year was saved as a separate .csv.gz file
+# Phase 3
