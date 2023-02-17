@@ -62,6 +62,5 @@ Revenue
 Budget
 Certification (MPAA Rating)
  
- ## Here is the data from MySQL after reverse enginering
  ![image](https://user-images.githubusercontent.com/105470937/219759019-ccbac2d8-f113-4912-8c50-3b5100d3595c.png)
 
