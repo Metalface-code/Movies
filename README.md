@@ -36,12 +36,36 @@ Save each file to a compressed csv file "Data/ to be used in later phases.
 ### This will be a major roadblock when attempting to analyze which movies are successful and must be addressed before you will be able to determine which movies are successful.
 ### The stakeholder identified The Movie Database (TMDB) as a great source of financial data (https://www.themoviedb.org/). Thankfully, TMDB offers a free API for programmatic access to their data!
 
-### Your stakeholder wants you to extract the budget, revenue, and MPAA Rating (G/PG/PG-13/R), which is also called "Certification".
+### The stakeholder wants to extract the budget, revenue, and MPAA Rating (G/PG/PG-13/R), which is also called "Certification".
 
 ### Specifications - Financial Data
 ### Your stakeholder would like you to extract and save the results for movies that meet all of the criteria established in part 1 of the project (You should already have a filtered dataframe saved from part one as a csv.gz file)
 
 ### As a proof-of-concept, they requested I  perform a test extraction of movies that started in 2000 or 2001
+
+## Deliverables 
+### How many movies had at least some valid financial information (values > 0 for budget OR revenue)?
+
+![image](https://user-images.githubusercontent.com/105470937/219760964-e336f593-7d1a-44f3-a979-f1b2f4fe3c54.png)
+
+![image](https://user-images.githubusercontent.com/105470937/219760777-c6aa3995-fc61-419a-b80a-a69e6cb09862.png)
+
+### How many movies are there in each of the certification categories (G/PG/PG-13/R)?
+
+![image](https://user-images.githubusercontent.com/105470937/219762331-51f238e8-53dd-49e4-868d-e9cbc3fc4020.png)
+
+### What is the average revenue per certification category?
+
+![image](https://user-images.githubusercontent.com/105470937/219762740-bec48afa-18da-4549-a4ab-cfd4e22b7681.png)
+
+### What is the average budget per certification category?
+
+![image](https://user-images.githubusercontent.com/105470937/219763004-9630ccea-bea8-4ab4-bf15-0d6431412558.png)
+
+
+
+
+
 
 # Phase 3
 ## The stake holder asked for a MySQL database to be made for 2001 and 2002
