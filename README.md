@@ -91,3 +91,6 @@ Certification (MPAA Rating)
 
 ![image](https://user-images.githubusercontent.com/105470937/219759019-ccbac2d8-f113-4912-8c50-3b5100d3595c.png)
 
+#Recomondations 
+##We were able to find which movies sold the most and its recomended to invest more in to family friendly 
+movies as they sold the most. Since they may tend to cater to a wider and more diverse audience. 
